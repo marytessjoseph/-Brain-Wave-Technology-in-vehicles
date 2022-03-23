@@ -1,0 +1,4 @@
+This project “Brainwave technology in vehicles” provides facilities like preventing hijacking, detecting physical conditions of drivers, and accident detection.
+Everyone’s brain produces a distinctive pattern of alpha-beta waves something like neural fingerprints that can be applied for the security of vehicles needing high safety. Vehicles are provided a biometric system, in which the driver would be scanned with an EEG and the pattern is stored. If the patterns don’t match the vehicle resists starting.
+The changing mental conditions of the driver would affect brain waves thus detecting physically not fit conditions and not allowing continuing driving.
+The proposed system transmits an emergency signal derived from the driver’s brain wave to the earth station via a GPS satellite, in a critical condition after the accident.
